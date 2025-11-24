@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="darkblue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1a3f" />
+      <stop offset="100%" stop-color="#0d3b82" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="40" fill="url(#darkblue)"/>
+  <text x="50%" y="50%" font-size="92" font-family="Arial, sans-serif"
+        font-weight="900" fill="#ffffff" text-anchor="middle"
+        dominant-baseline="central">
+    DSA
+  </text>
+</svg>
